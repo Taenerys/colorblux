@@ -1,4 +1,4 @@
-###"ColorBlUX" project by FDU Tiamat for UBC Local Hack Day 2019
+"ColorBlUX" project by FDU Tiamat for UBC Local Hack Day 2019
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
